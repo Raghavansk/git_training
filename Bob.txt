@@ -1,1 +1,2 @@
 Oh I just saw we should edit text after adding it. 
+this is new in Bob.
